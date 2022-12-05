@@ -1,0 +1,25 @@
+/* Home */
+#home{
+    height: 840px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+/* Home */
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+/* Cotact */
+.input{
+    width: 80%;
+}
+.msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
